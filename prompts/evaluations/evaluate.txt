@@ -1,0 +1,7 @@
+Original problem statement:
+{original_statement}
+
+Mutated problem statement:
+{mutated_statement}
+
+Score the quality of the mutation from 0 to 10. Only provide the numerical score. You can use floating numbers.
