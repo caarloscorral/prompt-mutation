@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  prompt-mutation:
+    image: prompt-mutation:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 5678:5678
