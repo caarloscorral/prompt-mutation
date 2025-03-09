@@ -1,0 +1,1 @@
+Simplify the following problem statement while maintaining its essence. Give just the simplified version with no extra commentary: "{statement}"
